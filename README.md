@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Machine Learning**
 
-- 👯 I’m looking to collaborate on [Web projects, and UI/UX Design](https://www.instagram.com/shad.codes/)
-
-- 🧙‍♀️My E-Commerce Web App **Reve d-Or**
+- 👯 I’m looking to collaborate on **Web projects, and UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shadyx6](https://github.com/Shadyx6)
 
