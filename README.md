@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01901cd8bf64474384?mp_source=share)
 
-- 🌱 I’m currently learning **Nextjs, Machine Learning**
+- 🌱 I’m currently learning **Nextjs,AI, UI/UX principles**
 
 - 👯 I’m looking to collaborate on **Web projects, and UI/UX Design**
 
