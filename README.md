@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11GofBAJtymAQn7AqWWzxXcxXHL7MvceA/view?usp=sharing](https://drive.google.com/file/d/11GofBAJtymAQn7AqWWzxXcxXHL7MvceA/view?usp=sharing)
 
-- ⚡ Fun fact **I’ve got 36k followers on Instagram who love seeing the web projects and animations I create!**
+- ⚡ Fun fact **I’ve got over 30K followers on Instagram who love seeing the web projects and animations I create!**
 
 
 ## 🌐 Socials:
