@@ -37,4 +37,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shadyx6&icon=3&color=11)](https://visitcount.itsvg.in)
 
+[![An image of @shadyx6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shadyx6)](https://holopin.io/@shadyx6)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
