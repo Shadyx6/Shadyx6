@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01901cd8bf64474384?mp_source=share)
 
-- 🌱 I’m currently learning **Nextjs,AI, UI/UX principles**
-
-- 👯 I’m looking to collaborate on **Web projects, and UI/UX Design**
+- 👯 I’m looking to collaborate on **Web projects, and AI/ML Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shadyx6](https://github.com/Shadyx6)
 
 - 📝 I casually write articles on [https://blog-bliss-rho.vercel.app/](https://blog-bliss-rho.vercel.app/)
 
-- 💬 Ask me about **ReactJS,NodeJS,MongoDB, ExpressJs, and UI/UX Design**
+- 💬 Ask me about **ReactJS,NodeJS,MongoDB, ExpressJs, Python, Data Analysis**
 
 - 📫 How to reach me **shadkhanxox@gmail.com**
 
